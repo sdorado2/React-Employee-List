@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.mainBox{
+  display: flex;
+  border: solid black;
+}
+.headerBox{
+  border : solid cyan
+}
+
+.employeeBox{
+  border: solid brown;
+  width: 50%;
+  height : 40svh;
+}
+
+.homePage{
+  border: solid goldenrod;
+  width: 50%;
+  height : 40svh;
+}
+
+.searchBox{
+  border : solid green;
+  height : 5svh;
+}
+
+.employeeList{
+  border : solid purple;
+  height : 15svh;
+}
+
+.employeeItem{
+  border : solid red
+}
